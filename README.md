@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://sundaradhikari.com.np/](https://sundaradhikari.com.np/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/sundaradh/**
-
+<a href="https://app.daily.dev/sundaradh"><img src="https://api.daily.dev/devcards/c15866e538b842f88b913ebb7e8570a2.png?r=odb" width="400" alt="Sundar Adhikari's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adh_sundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adh_sundar" height="30" width="40" /></a>
