@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/adh_sundar" target="blank"><img src="https://img.shields.io/twitter/follow/adh_sundar?logo=twitter&style=for-the-badge" alt="adh_sundar" /></a> </p>
 
-- 🔭 I’m currently working on **PSMS**
-
-- 👯 I’m looking to collaborate on **Kaskeli Mart**
-
-- 👨‍💻 All of my projects are available at [https://sundaradhikari.com.np/](https://sundaradhikari.com.np/)
-
 - 📫 How to reach me **https://www.linkedin.com/in/sundaradh/**
   
 <a href="https://app.daily.dev/sundaradh" ><img align="left" src="https://api.daily.dev/devcards/c15866e538b842f88b913ebb7e8570a2.png?r=odb" width="400" alt="Sundar Adhikari's Dev Card"/></a>
